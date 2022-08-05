@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-11-full.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.title {
+  color: teal;
+}
+.navbar {
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  padding-right: 100px;
+  padding-left: 100px;
+}
